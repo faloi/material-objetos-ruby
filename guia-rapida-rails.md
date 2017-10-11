@@ -84,11 +84,7 @@ Como se ve en el ejemplo, el comando `rails g model` toma varios parámetros:
 |`date`        |Solo fecha.|
 |`time`        |Solo hora.|
 
-<center>
-<small>
-<p>
+---
+
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)    
 Material elaborado por Federico Aloi, distribuido bajo los términos de la [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/), basado parcialmente en la versión en español de las guías del sitio RailsGuides, distribuidas bajo la misma licencia y disponibles en http://www.guiasrails.es/getting_started.html.
-</p>
-</small>
-</center>
